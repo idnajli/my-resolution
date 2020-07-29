@@ -1,2 +1,2 @@
 # my-resolution
-Menyatakan tentang keinginan-keinginan yang ingin dicapai
+Repository / Folder yang menyatakan tentang keinginan-keinginan yang ingin dicapai
